@@ -62,12 +62,6 @@ Reads raw tick data and plots mid price over time — used for visual inspection
 
 ---
 
-## Screenshots
-
-*See `/screenshots` folder — dashboards, monitoring systems, execution outputs.*
-
----
-
 ## Research
 
 See `research/slope_predictor.md` — a full research cycle: 6 models tested on 50M data points, honest failure analysis, and a pivot that found real alpha at slower timeframes.
