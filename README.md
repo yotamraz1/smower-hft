@@ -68,6 +68,10 @@ Reads raw tick data and plots mid price over time — used for visual inspection
 
 ---
 
+## Research
+
+See `research/slope_predictor.md` — a full research cycle: 6 models tested on 50M data points, honest failure analysis, and a pivot that found real alpha at slower timeframes.
+
 ## Notes
 
 See `notes/research_findings.md` for methodology and findings from the momentum signal research.
